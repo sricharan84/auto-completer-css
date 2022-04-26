@@ -52,7 +52,7 @@ body {
 .autocom-box li {
   list-style: none;
   padding: 8px 12px;
-  display: none;
+  /* display: none; */
   width: 100%;
   cursor: default;
   border-radius: 3px;
